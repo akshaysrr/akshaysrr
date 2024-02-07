@@ -22,7 +22,7 @@ A MLOps enthusiast from India 🇮🇳
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=akshaysrr&show_icons=true&locale=en" alt="akshaysrr" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=akshaysrr&" alt="chandansgowda" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=akshaysrr&" alt="akshaysrr" /></p>
 
 <h3 align="left">Languages and Tools:</h3>
 
