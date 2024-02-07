@@ -1,6 +1,7 @@
-# Hi 👋, I'm Akshay Raghavendra
+# Hi 👋, I'm Akshay Raghavendra 
+<br/>
 
-                  ## MLOps enthusiast from India 🇮🇳
+## MLOps enthusiast from India 🇮🇳
 
 ![](https://komarev.com/ghpvc/?username=akshaysrr&style=flat-square)
 
