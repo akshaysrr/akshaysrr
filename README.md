@@ -1,18 +1,18 @@
 # Hi 👋, I'm Akshay Raghavendra
 
-## MLOps enthusiast from India 🇮🇳
+                  ## MLOps enthusiast from India 🇮🇳
 
-![Visitor Count](https://profile-counter.glitch.me/{akshaysrr}/count.svg)
+![](https://komarev.com/ghpvc/?username=akshaysrr&style=flat-square)
 
-🌱 I’m currently learning Python, Golang and AIML Systems
+* 🌱 I’m currently learning Python, Golang and AIML Systems
 
-👨‍💻 I’m currently studying @BNMIT Bengaluru
+* 👨‍💻 I’m currently studying @BNMIT Bengaluru
 
-💻 All of my projects are available on GitHub
+* 💻 All of my projects are available on GitHub
 
-💬 Ask me about Programming, Pipeline development, MLOps
+* 💬 Ask me about Programming, Pipeline development, Machine Learning
 
-📫 Reach out to me at rakshay2609@gmail.com
+* 📫 Reach out to me at rakshay2609@gmail.com
 
-Languages and Tools:
+* Languages and Tools:
 C C++ Java Python NumPy Pandas Shell Git Jenkins SonarQube Ansible Docker Kubernetes Markdown MySQL SQLite Postgres Raspberry Pi LINUX Arduino SSH
