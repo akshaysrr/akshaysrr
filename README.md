@@ -1,8 +1,8 @@
-Hi 👋, I'm Akshay Raghavendra
+# Hi 👋, I'm Akshay Raghavendra
 
-*MLOps enthusiast from India 🇮🇳*
+## MLOps enthusiast from India 🇮🇳
 
-akshayr
+![Visitor Count](https://profile-counter.glitch.me/{akshaysrr}/count.svg)
 
 🌱 I’m currently learning Python, Golang and AIML Systems
 
