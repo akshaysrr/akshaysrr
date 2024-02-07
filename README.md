@@ -1,14 +1,13 @@
 Hi 👋, I'm Akshay Raghavendra
-A MLOps enthusiast from India 🇮🇳
+MLOps enthusiast from India 🇮🇳
+
 akshayr
 
 🌱 I’m currently learning Python, Golang and AIML Systems
 
-👨‍💻 I’m currently studying @BNMIT
+👨‍💻 I’m currently studying @BNMIT Bengaluru
 
 💻 All of my projects are available on GitHub
-
-📽️ I regularly upload videos on My Youtube Channel
 
 💬 Ask me about Programming, Pipeline development, MLOps
 
