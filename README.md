@@ -14,7 +14,7 @@ A MLOps enthusiast from India 🇮🇳
 
 💻 All of my projects are available on GitHub
 
-💬 Ask me about Programming, Pipeline development, Machine Learning
+💬 Ask me about **Programming, DevOps Pipeline development, Machine Learning**
 
 📫 Reach out to me at rakshay2609@gmail.com
 
