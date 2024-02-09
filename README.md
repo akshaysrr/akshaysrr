@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Akshay Raghavendra</h1>
 
 <h3 align="center" style="color:blue;font-weight:700;font-size:20px">
-A MLOps enthusiast from India 🇮🇳
+A MLOps, DevOps enthusiast from Bengaluru, INDIA
 </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akshaysrr&label=Profile%20views&color=0e75b6&style=flat" alt="akshaysrr" /> </p>
 
-
+<br>
 
 👨‍💻 I’m currently studying @BNMIT Bengaluru
 
@@ -14,7 +14,7 @@ A MLOps enthusiast from India 🇮🇳
 
 💻 All of my projects are available on GitHub
 
-💬 Ask me about **Programming, DevOps Pipeline development, Machine Learning**
+💬 Ask me about **Programming, GitHub Actions, Jenkins Pipeline development, Machine Learning, Docker, Kubernetes**
 
 📫 Reach out to me at rakshay2609@gmail.com
 
